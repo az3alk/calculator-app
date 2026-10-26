@@ -2,6 +2,6 @@ package com.example;
 
 public class Calculator {
     public int add(int a, int b) {
-        return a - b; // BUG: changed from a + b
+        return a + b; 
     }
 }
